@@ -19,7 +19,7 @@ public:
 	}
 };
 
-int main(int argc, char **argv)
+int main(void)
 {
 	IntPair p1;
 	p1.set(1, 1);
